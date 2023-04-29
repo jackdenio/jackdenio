@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Dênio, comecei a trabalhar com desenvolvimento em 2006 (PHP, CSS e JS) tendo um hiato de 7 anos (2012 a 2019) onde atuei em uma instituição Educacional auxiliando na implantação do RM TOTVS, redes e softwares operacionais. Voltei a estudar em 2018, e a desenvolver em 2019 focando em Laravel e VueJS. Hoje trabalho administração de sistemas, integrações e desenvolvimento (PHP, CSS e JS) e estou estudando NodeJS e React.
 
 <!--
 **jackdenio/jackdenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
