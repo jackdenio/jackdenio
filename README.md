@@ -1,12 +1,12 @@
-## Olá!
+## Hi there!
 
-###  Me chamo Dênio e comecei a trabalhar com desenvolvimento web em 2006 (<spam> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php" width="100px"/> </a></spam>).
+### My name is Dênio and I started working with web development in 2006 (<spam> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php" width="100px"/> </a></spam>).
 
-### De 2012 a 2019 atuei em uma instituição educacional gerenciando o setor de TI, auxiliando na implantação do ERP RM TOTVS, redes, softwares operacionais e web.
+### From 2012 to 2019 I worked at an educational institution managing the IT sector, assisting in the implementation of the ERP RM TOTVS, networks, operational and web software.
 
-### Voltei a estudar programação em 2018, e a desenvolver em 2019 focando em Laravel e VueJS. Hoje trabalho com administração de sistemas, integrações e desenvolvimento web.
+### I went back to studying programming in 2018, and to developing in 2019 focusing on Laravel and VueJS. Today I work with systems administration, integrations and web development.
 
-### Fiz alguns cursos e bootcamps baseados em NodeJS e React, e atualmente estou estudando e atuando em um projeto com Symfony.
+### I took some courses and bootcamps based on NodeJS and React, and I am currently studying and participating in a project with Symfony.
 
 <p align="center">
   <a href="https://skillicons.dev">
